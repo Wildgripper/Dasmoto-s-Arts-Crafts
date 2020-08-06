@@ -1,0 +1,62 @@
+/* Universal Styles */
+
+html {
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+}
+
+ /* Header */
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background-image: url(../images/pattern.jpeg);
+}
+
+  /* Body */
+
+  h2 {
+      font-size: 26px;
+      font-weight: bold;
+      color: white;
+  }
+
+  h3 {
+      font-size: 1.17em;
+  }
+
+  .brushes h2 {
+      background-color: MediumSpringGreen;
+      }
+
+  .frames h2 {
+      background-color: rgb(255, 116, 116);
+       }
+
+  .paint h2 {
+      background-color: rgb(132, 179, 255);
+  }
+
+  span {
+      color: blue;
+      font-weight: bold;
+  }
+
+  /* Pictures */
+
+  #brushes {
+      height: 200px;
+      width: 250px;
+  }
+
+  #frames {
+    height: 200px;
+    width: 250px;
+}
+
+#paint {
+    height: 200px;
+    width: 250px;
+}
